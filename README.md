@@ -32,7 +32,7 @@ The entire page is built using only HTML, without CSS or JavaScript, as per assi
 Live Demo: [View Resume](https://unpredictable-arcane.github.io/HTML-Resume-Page-Assignment/)
 ## Preview Screenshot ✨
 
-![Resume Preview](Screenshot%202026-01-27%20203845.png)
+![Resume Preview](Preview~1%20chaicode.png)
 
 *Preview of the HTML Resume Page*
 
